@@ -144,6 +144,7 @@ section{ margin-block: clamp(16px, 4vw, 32px); }
   text-decoration:none;
   font-weight:700;
   transition: transform .15s ease, background .15s ease, color .15s ease;
+  margin-right:10px ;
 
 }
 .btn-on-cyan:hover,
